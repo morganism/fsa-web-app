@@ -6,5 +6,5 @@ export JARS=$SRC_BASE/jars
 CLASSPATH=`ls -1 $JARS/*jar | tr '\n' ':' | sed "s/:$//"`
 export CLASSPATH=.:$SRC_BASE/classes:$CLASSPATH
 
-cd $SRC_BASE/fsa/classes
+cd $SRC_BASE/classes
 java uk.co.sziraki.fsa.FSAMain

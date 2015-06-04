@@ -45,7 +45,9 @@ public class FSAMain extends AbstractHandler
 
     		response.getWriter().println("<h2>Food Standards Agency : Hygiene Ratings</h2>");
     		response.getWriter().println("<h4>Select a Local Authority</h4>");
-    		response.getWriter().println("<form method=\"POST\" action=\"http://localhost:" + HTTP_PORT + "\">");
+    		//response.getWriter().println("<form method=\"POST\" action=\"http://localhost:" + HTTP_PORT + "\">");
+    		response.getWriter().println("<form method=\"POST\" action=\"/\">");
+
         	response.getWriter().println(dd.getDropDown(selectedLocalAuthortyId));
         	response.getWriter().println("<input type=submit value=\"Get Rating Details\"></form>");
        /** }

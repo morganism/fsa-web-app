@@ -2,6 +2,7 @@
 Simple Jetty Web App that queries the Food Standards Agency API
 
 
+```
 ** Directory layout **
 .
 |-- fsa
@@ -51,3 +52,4 @@ Simple Jetty Web App that queries the Food Standards Agency API
 `-- README.md
 
 16 directories, 29 files
+```

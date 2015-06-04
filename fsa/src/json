@@ -1,0 +1,26 @@
+{
+	"FriendlyName":"basingstoke-and-deane",
+	"FileNameWelsh":null,
+	"RegionName":"South East",
+	"SchemeUrl":"",
+	"links":[
+		{
+		"rel":"self",
+		"href":"http://api.ratings.food.gov.uk/authorities/238"
+		}
+		],
+	"CreationDate":"2010-08-17T15:30:24.87",
+	"LocalAuthorityId":238,
+	"LastPublishedDate":"2015-05-30T00:32:30.343",
+	"SchemeType":1,
+	"Name":"Basingstoke and Deane",
+	"Url":"http://www.basingstoke.gov.uk",
+	"Email":"ehteam@basingstoke.gov.uk",
+	"FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS131en-GB.xml",
+	"LocalAuthorityIdCode":"131",
+	"EstablishmentCount":558
+}
+o"FHRSID":150309,"LocalAuthorityBusinessID":"9793","BusinessName":"210 BISTRO","BusinessType":"Restaurant/Cafe/Canteen","BusinessTypeID":1,"AddressLine1":"","AddressLine2":"210 Market Street","AddressLine3":"Aberdeen","AddressLine4":"","PostCode":"AB11 5PQ","Phone":"","RatingValue":"Pass","RatingKey":"fhis_pass_en-gb","RatingDate":"2014-10-04T00:00:00","LocalAuthorityCode":"760","LocalAuthorityName":"Aberdeen City","LocalAuthorityWebSite":"http://www.aberdeencity.gov.uk","LocalAuthorityEmailAddress":"commercial@aberdeencity.gov.uk","scores":{"Hygiene":null,"Structural":null,"ConfidenceInManagement":null},"SchemeType":"FHIS","geocode":{"longitude":"-2.092258","latitude":"57.142278"},"RightToReply":"","Distance":null,"NewRatingPending":false,"links":[]}
+
+{"FHRSID":553196,"LocalAuthorityBusinessID":"12/01766/COMM","BusinessName":"(Asda) Leeds Bridge Service Station","BusinessType":"Retailers - other","BusinessTypeID":4613,"AddressLine1":"Meadow Lane","AddressLine2":"Holbeck","AddressLine3":"Leeds","AddressLine4":"","PostCode":"LS11 5BJ","Phone":"","RatingValue":"5","RatingKey":"fhrs_5_en-gb","RatingDate":"2013-05-31T00:00:00","LocalAuthorityCode":"413","LocalAuthorityName":"Leeds","LocalAuthorityWebSite":"http://www.leeds.gov.uk/","LocalAuthorityEmailAddress":"food.safety@leeds.gov.uk","scores":{"Hygiene":0,"Structural":0,"ConfidenceInManagement":0},"SchemeType":"FHRS","geocode":{"longitude":"-1.542391","latitude":"53.791703"},"RightToReply":"","Distance":null,"NewRatingPending":false,"links":[]}
+

@@ -1,0 +1,23 @@
+{
+	"FriendlyName":"basingstoke-and-deane",
+	"FileNameWelsh":null,
+	"RegionName":"South East",
+	"SchemeUrl":"",
+	"links":[
+		{
+		"rel":"self",
+		"href":"http://api.ratings.food.gov.uk/authorities/238"
+		}
+		],
+	"CreationDate":"2010-08-17T15:30:24.87",
+	"LocalAuthorityId":238,
+	"LastPublishedDate":"2015-05-30T00:32:30.343",
+	"SchemeType":1,
+	"Name":"Basingstoke and Deane",
+	"Url":"http://www.basingstoke.gov.uk",
+	"Email":"ehteam@basingstoke.gov.uk",
+	"FileName":"http://ratings.food.gov.uk/OpenDataFiles/FHRS131en-GB.xml",
+	"LocalAuthorityIdCode":"131",
+	"EstablishmentCount":558
+}
+

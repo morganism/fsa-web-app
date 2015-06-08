@@ -67,6 +67,7 @@ public class FSAMain extends AbstractHandler
        		response.getWriter().println(ratingTable.getRatingTable());
     		
         }
+        response.getWriter().println("<p><a href='https://github.com/morganism/fsa-web-app'>Source Code</a>");
     }
  
     public static void main(String[] args) throws Exception
